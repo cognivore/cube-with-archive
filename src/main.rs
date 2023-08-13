@@ -36,7 +36,7 @@ fn generate_draftmancer_list(cards: &[String], duplicates: &[String]) -> String 
         result.push_str(card);
         result.push('\n');
     }
-    result.push_str("[Archive]\n");
+    result.push_str("[Archived]\n");
     for card in duplicates {
         result.push_str(card);
         result.push('\n');
