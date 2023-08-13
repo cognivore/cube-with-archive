@@ -1,0 +1,8 @@
+/cache/
+/optupts/
+/target/
+/tournament/
+/submissions/
+
+.direnv/
+.idea/
