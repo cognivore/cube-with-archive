@@ -31,13 +31,12 @@ fn parse_card_list(data: &str) -> (Vec<String>, Vec<String>) {
 }
 
 fn generate_draftmancer_list(cards: &[String], duplicates: &[String]) -> String {
-    let mut result =
-        String::from("[Layouts]\n- Archive (1)\n\t14 Cubed\n\t1 Archived\n\n[Cubed]\n");
+    let mut result = String::from("[Layouts]\n- Archive (1)\n\t14 Cubed\n\t1 Archived\n[Cubed]\n");
     for card in cards {
         result.push_str(card);
         result.push('\n');
     }
-    result.push_str("\n[Archive]\n");
+    result.push_str("[Archive]\n");
     for card in duplicates {
         result.push_str(card);
         result.push('\n');
