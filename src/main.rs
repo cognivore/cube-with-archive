@@ -77,7 +77,7 @@ impl std::fmt::Display for Layouts {
                 write!(f, "        \"{}\": {},\n", slot.rarity, slot.count)?;
             }
             write!(f, "      }}\n")?;
-            write!(f, "    }}\n")?;
+            write!(f, "    }},\n")?;
         }
         write!(f, "  }}\n")?;
         write!(f, "}}")

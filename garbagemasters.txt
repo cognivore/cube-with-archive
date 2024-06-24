@@ -5,399 +5,22 @@
       "weight": 7,
       "slots": {
         "Rare": 1,
-        "Common": 11,
-        "Special": 2,
         "Uncommon": 4,
+        "Special": 2,
+        "Common": 11,
       }
-    }
+    },
     "Mythic": {
       "weight": 1,
       "slots": {
         "Mythic": 1,
-        "Common": 11,
-        "Special": 2,
         "Uncommon": 4,
+        "Special": 2,
+        "Common": 11,
       }
-    }
+    },
   }
 }
-[Common]
-Icatian Moneychanger
-Devout Monk
-Stern Constable
-Shu Farmer
-Squire
-Gate Hound
-Glowrider
-Defender en-Vec
-Aven Trooper
-Takeno's Cavalry
-Tireless Missionaries
-Tactical Advantage
-Serra Bestiary
-Morale
-Avenging Arrow
-Bargain
-Vanquish
-Strength of Unity
-Secure the Scene
-Thought Nibbler
-Dreamcatcher
-Port Inspector
-Sneaky Homunculus
-Wormfang Newt
-Vivid Flying Fish
-Devouring Deep
-Merchant of Secrets
-Gulf Squid
-Crystal Seer
-Cephalid Aristocrat
-Mana Chains
-Air Bladder
-Venarian Gold
-Fatigue
-Convincing Mirage
-Hubris
-Vex
-Coma Veil
-Insidious Bookworms
-Hunted Ghoul
-Giant Slug
-Plague Fiend
-Deathknell Kami
-Mindless Null
-Kami of the Waning Moon
-Brain Gorgers
-Phyrexian Prowler
-Chimney Imp
-Shinen of Fear's Chill
-Deathcurse Ogre
-Gruesome Deformity
-Bloodcurdling Scream
-Parallax Dementia
-Incriminate
-Alms of the Vein
-Waste Away
-Call for Blood
-Goblin Swine-Rider
-Duct Crawler
-Dwarven Berserker
-Impetuous Sunchaser
-Dwarven Weaponsmith
-Longhorn Firebeast
-Robber Fly
-Goblin Bowling Team
-Minotaur Tactician
-Whiptail Moloch
-Sonic Seizure
-Crushing Pain
-Dangerous Wager
-Sizzling Barrage
-Instill Furor
-Distemper of the Blood
-Battle Frenzy
-Swift Kick
-Kamahl's Sledge
-Skyshroud Ridgeback
-Sacred Prey
-Scarwood Hag
-Glass Asp
-Skyshroud Sentinel
-Marsh Viper
-Centaur Rootcaster
-Viridian Scout
-Matsu-Tribe Birdstalker
-Groffskithur
-Mortal Wound
-Bequeathal
-Reclaim
-Cocoon
-Wielding the Green Dragon
-Regenerate
-Foxfire
-Serpent's Gift
-Feral Contest
-Firehoof Cavalry
-Electric Eel
-Marsh Goblins
-Viashino Grappler
-Vectis Silencers
-Vectis Dominator
-Rampant Elephant
-Abominable Treefolk
-Fossil Find
-Daring Leap
-Undercity Uprising
-Hedron Scrabbler
-Brass Secretary
-Clockwork Condor
-Iron-Heart Chimera
-Lead-Belly Chimera
-Briber's Purse
-Navigator's Compass
-Flamecast Wheel
-Echo Circlet
-Tyrant's Machine
-Parallax Inhibitor
-Consulate Turret
-Powerstone Shard
-Sandstone Deadfall
-Mightstone
-Mishra's Groundbreaker
-Heliophial
-Introduction to Annihilation
-Scour from Existence
-Crumbling Vestige
-Warped Landscape
-An-Havva Township
-Aysen Abbey
-Castle Sengir
-Koskun Keep
-Wizards' School
-School of the Unseen
-[Uncommon]
-Osai Vultures
-Trained Pronghorn
-Helionaut
-Ephara's Warden
-Seasoned Marshal
-Iron Tusk Elephant
-Blazing Hope
-Darksteel Mutation
-Murder Investigation
-Cooperation
-Valorous Charge
-Reduce to Memory
-Seeker
-Mirror Strike
-Cloudskate
-Phantom Whelp
-Oboro Breezecaller
-Glowing Anemone
-Jolting Merfolk
-Sea Snidd
-Wanderguard Sentry
-Essence Flare
-Cloak of Invisibility
-Betrayal
-Abjure
-Power of Persuasion
-Animate Artifact
-Fold into Aether
-Whipstitched Zombie
-Mole Worms
-Murk Dwellers
-Scavenging Scarab
-Carrion Howler
-Zombie Boa
-Skullmane Baku
-Withering Boon
-Abandon Hope
-Treacherous Link
-Lithoform Blight
-Necrotic Fumes
-Snake Cult Initiation
-Brink of Disaster
-Primordial Ooze
-Goblin Firebug
-Shinka Gatekeeper
-Sabertooth Alley Cat
-Hellraiser Goblin
-Cosi's Ravager
-Epiphany Storm
-Breath of Fire
-Consuming Ferocity
-Magma Rift
-Aggression
-Warpath
-Tears of Rage
-Wild Swing
-Scythe Tiger
-Elvish Hunter
-Rabid Wombat
-Hawkeater Moth
-Sophic Centaur
-Hunt Down
-Superior Numbers
-Dense Canopy
-Momentum
-Overwhelming Instinct
-Elven Cache
-Chameleon Blur
-Venomous Breath
-Wolf's Quarry
-Urborg Phantom
-Niambi, Faithful Healer
-Goblin Test Pilot
-Horned Cheetah
-Merfolk of the Depths
-Razing Snidd
-Savage Offensive
-Deadly Brew
-Soul Link
-Onward // Victory
-Soldevi Sentry
-Watchdog
-Rusting Golem
-Leashling
-Tel-Jilad Stylus
-Avarice Totem
-Triangle of War
-Cyclopean Snare
-Siren Song Lyre
-Tawnos's Wand
-Gauntlets of Chaos
-Eon Hub
-Runesword
-Joven's Tools
-Bad River
-Flood Plain
-Grasslands
-Mountain Valley
-Rocky Tar Pit
-Skyshroud Forest
-Scabland
-Salt Flats
-Pine Barrens
-Caldera Lake
-[Rare]
-Alabaster Leech
-Oracle en-Vec
-Harsh Deceiver
-Bartered Cow
-Elder Land Wurm
-Isolate
-Martyr's Cry
-Tariff
-Blood of the Martyr
-Infinite Authority
-Debt of Loyalty
-Happily Ever After
-Null Chamber
-Chronomantic Escape
-Divine Intervention
-Heroes Remembered
-Phantasmal Mount
-Chronatog
-Saprazzan Heir
-Callous Deceiver
-Tidewalker
-Coastal Hornclaw
-Floodtide Serpent
-Tolarian Serpent
-Suspend
-Ideas Unbound
-Skygames
-Teferi's Veil
-Dance of Many
-Long-Term Plans
-Part the Veil
-Search the City
-Cruel Deceiver
-Filthy Cur
-Nether Shadow
-Infectious Horror
-The Fallen
-Waning Wurm
-Numai Outcast
-Spoils of the Vault
-Font of Agonies
-Kaervek's Spite
-Necrogen Mists
-Sword-Point Diplomacy
-Oni Possession
-Temporal Extortion
-Awaken the Erstwhile
-Vicious Betrayal
-Pardic Miner
-Goblin Hero
-Brutal Deceiver
-Diaochan, Artful Beauty
-Shimatsu the Bloodcloaked
-Molten Sentry
-Chaos Lord
-Need for Speed
-Heat Stroke
-Impatience
-Heat Shimmer
-Total War
-Deadshot
-Grand Melee
-Parallectric Feedback
-Guild Feud
-Mwonvuli Ooze
-Magus of the Vineyard
-Permeating Mass
-Satyr Piper
-Feral Deceiver
-Flailing Drake
-Fungusaur
-Elder Druid
-Wood Elemental
-Haze Frog
-Ancient Brontodon
-Manabond
-Saproling Cluster
-Lifegift
-Seed the Land
-Animal Magnetism
-Yavimaya Kavu
-Mountain Titan
-Warping Wurm
-Emberwilde Caliph
-Karona, False God
-Iname as One
-Fight to the Death
-Executioner's Swing
-Elemental Augury
-Wellspring
-Memory Plunder
-Naked Singularity
-Worldpurge
-Phyrexian Marauder
-Soultether Golem
-Hopping Automaton
-Phyrexian Soulgorger
-Gilded Sentinel
-Goblin War Wagon
-Junk Golem
-Shapeshifter
-Jinxed Idol
-Wine of Blood and Iron
-Strixhaven Stadium
-Triassic Egg
-Infinite Hourglass
-Vibrating Sphere
-Blood Clock
-Assembly Hall
-City of Shadows
-Undiscovered Paradise
-Contested War Zone
-[Mythic]
-Fasting
-Out of Time
-Humility
-Archangel's Light
-Storm Crow
-Vizzerdrix
-Wormfang Manta
-Silent Submersible
-Tomb Robber
-Phage the Untouchable
-Infernal Denizen
-Morality Shift
-Tibalt, the Fiend-Blooded
-Shifting Shadow
-Jaya Ballard
-Apex of Power
-Pixie Queen
-Helix Pinnacle
-Cyclone
-The Great Aurora
-Bess, Soul Nourisher
-Conflux
-Magma Mine
-Voodoo Doll
 [Special]
 Amrou Kithkin
 Snow Hound
@@ -544,3 +167,380 @@ Rhystic Cave
 Nomad Stadium
 Sorrow's Path
 Rainbow Vale
+[Rare]
+Alabaster Leech
+Oracle en-Vec
+Harsh Deceiver
+Bartered Cow
+Elder Land Wurm
+Isolate
+Martyr's Cry
+Tariff
+Blood of the Martyr
+Infinite Authority
+Debt of Loyalty
+Happily Ever After
+Null Chamber
+Chronomantic Escape
+Divine Intervention
+Heroes Remembered
+Phantasmal Mount
+Chronatog
+Saprazzan Heir
+Callous Deceiver
+Tidewalker
+Coastal Hornclaw
+Floodtide Serpent
+Tolarian Serpent
+Suspend
+Ideas Unbound
+Skygames
+Teferi's Veil
+Dance of Many
+Long-Term Plans
+Part the Veil
+Search the City
+Cruel Deceiver
+Filthy Cur
+Nether Shadow
+Infectious Horror
+The Fallen
+Waning Wurm
+Numai Outcast
+Spoils of the Vault
+Font of Agonies
+Kaervek's Spite
+Necrogen Mists
+Sword-Point Diplomacy
+Oni Possession
+Temporal Extortion
+Awaken the Erstwhile
+Vicious Betrayal
+Pardic Miner
+Goblin Hero
+Brutal Deceiver
+Diaochan, Artful Beauty
+Shimatsu the Bloodcloaked
+Molten Sentry
+Chaos Lord
+Need for Speed
+Heat Stroke
+Impatience
+Heat Shimmer
+Total War
+Deadshot
+Grand Melee
+Parallectric Feedback
+Guild Feud
+Mwonvuli Ooze
+Magus of the Vineyard
+Permeating Mass
+Satyr Piper
+Feral Deceiver
+Flailing Drake
+Fungusaur
+Elder Druid
+Wood Elemental
+Haze Frog
+Ancient Brontodon
+Manabond
+Saproling Cluster
+Lifegift
+Seed the Land
+Animal Magnetism
+Yavimaya Kavu
+Mountain Titan
+Warping Wurm
+Emberwilde Caliph
+Karona, False God
+Iname as One
+Fight to the Death
+Executioner's Swing
+Elemental Augury
+Wellspring
+Memory Plunder
+Naked Singularity
+Worldpurge
+Phyrexian Marauder
+Soultether Golem
+Hopping Automaton
+Phyrexian Soulgorger
+Gilded Sentinel
+Goblin War Wagon
+Junk Golem
+Shapeshifter
+Jinxed Idol
+Wine of Blood and Iron
+Strixhaven Stadium
+Triassic Egg
+Infinite Hourglass
+Vibrating Sphere
+Blood Clock
+Assembly Hall
+City of Shadows
+Undiscovered Paradise
+Contested War Zone
+[Common]
+Icatian Moneychanger
+Devout Monk
+Stern Constable
+Shu Farmer
+Squire
+Gate Hound
+Glowrider
+Defender en-Vec
+Aven Trooper
+Takeno's Cavalry
+Tireless Missionaries
+Tactical Advantage
+Serra Bestiary
+Morale
+Avenging Arrow
+Bargain
+Vanquish
+Strength of Unity
+Secure the Scene
+Thought Nibbler
+Dreamcatcher
+Port Inspector
+Sneaky Homunculus
+Wormfang Newt
+Vivid Flying Fish
+Devouring Deep
+Merchant of Secrets
+Gulf Squid
+Crystal Seer
+Cephalid Aristocrat
+Mana Chains
+Air Bladder
+Venarian Gold
+Fatigue
+Convincing Mirage
+Hubris
+Vex
+Coma Veil
+Insidious Bookworms
+Hunted Ghoul
+Giant Slug
+Plague Fiend
+Deathknell Kami
+Mindless Null
+Kami of the Waning Moon
+Brain Gorgers
+Phyrexian Prowler
+Chimney Imp
+Shinen of Fear's Chill
+Deathcurse Ogre
+Gruesome Deformity
+Bloodcurdling Scream
+Parallax Dementia
+Incriminate
+Alms of the Vein
+Waste Away
+Call for Blood
+Goblin Swine-Rider
+Duct Crawler
+Dwarven Berserker
+Impetuous Sunchaser
+Dwarven Weaponsmith
+Longhorn Firebeast
+Robber Fly
+Goblin Bowling Team
+Minotaur Tactician
+Whiptail Moloch
+Sonic Seizure
+Crushing Pain
+Dangerous Wager
+Sizzling Barrage
+Instill Furor
+Distemper of the Blood
+Battle Frenzy
+Swift Kick
+Kamahl's Sledge
+Skyshroud Ridgeback
+Sacred Prey
+Scarwood Hag
+Glass Asp
+Skyshroud Sentinel
+Marsh Viper
+Centaur Rootcaster
+Viridian Scout
+Matsu-Tribe Birdstalker
+Groffskithur
+Mortal Wound
+Bequeathal
+Reclaim
+Cocoon
+Wielding the Green Dragon
+Regenerate
+Foxfire
+Serpent's Gift
+Feral Contest
+Firehoof Cavalry
+Electric Eel
+Marsh Goblins
+Viashino Grappler
+Vectis Silencers
+Vectis Dominator
+Rampant Elephant
+Abominable Treefolk
+Fossil Find
+Daring Leap
+Undercity Uprising
+Hedron Scrabbler
+Brass Secretary
+Clockwork Condor
+Iron-Heart Chimera
+Lead-Belly Chimera
+Briber's Purse
+Navigator's Compass
+Flamecast Wheel
+Echo Circlet
+Tyrant's Machine
+Parallax Inhibitor
+Consulate Turret
+Powerstone Shard
+Sandstone Deadfall
+Mightstone
+Mishra's Groundbreaker
+Heliophial
+Introduction to Annihilation
+Scour from Existence
+Crumbling Vestige
+Warped Landscape
+An-Havva Township
+Aysen Abbey
+Castle Sengir
+Koskun Keep
+Wizards' School
+School of the Unseen
+[Mythic]
+Fasting
+Out of Time
+Humility
+Archangel's Light
+Storm Crow
+Vizzerdrix
+Wormfang Manta
+Silent Submersible
+Tomb Robber
+Phage the Untouchable
+Infernal Denizen
+Morality Shift
+Tibalt, the Fiend-Blooded
+Shifting Shadow
+Jaya Ballard
+Apex of Power
+Pixie Queen
+Helix Pinnacle
+Cyclone
+The Great Aurora
+Bess, Soul Nourisher
+Conflux
+Magma Mine
+Voodoo Doll
+[Uncommon]
+Osai Vultures
+Trained Pronghorn
+Helionaut
+Ephara's Warden
+Seasoned Marshal
+Iron Tusk Elephant
+Blazing Hope
+Darksteel Mutation
+Murder Investigation
+Cooperation
+Valorous Charge
+Reduce to Memory
+Seeker
+Mirror Strike
+Cloudskate
+Phantom Whelp
+Oboro Breezecaller
+Glowing Anemone
+Jolting Merfolk
+Sea Snidd
+Wanderguard Sentry
+Essence Flare
+Cloak of Invisibility
+Betrayal
+Abjure
+Power of Persuasion
+Animate Artifact
+Fold into Aether
+Whipstitched Zombie
+Mole Worms
+Murk Dwellers
+Scavenging Scarab
+Carrion Howler
+Zombie Boa
+Skullmane Baku
+Withering Boon
+Abandon Hope
+Treacherous Link
+Lithoform Blight
+Necrotic Fumes
+Snake Cult Initiation
+Brink of Disaster
+Primordial Ooze
+Goblin Firebug
+Shinka Gatekeeper
+Sabertooth Alley Cat
+Hellraiser Goblin
+Cosi's Ravager
+Epiphany Storm
+Breath of Fire
+Consuming Ferocity
+Magma Rift
+Aggression
+Warpath
+Tears of Rage
+Wild Swing
+Scythe Tiger
+Elvish Hunter
+Rabid Wombat
+Hawkeater Moth
+Sophic Centaur
+Hunt Down
+Superior Numbers
+Dense Canopy
+Momentum
+Overwhelming Instinct
+Elven Cache
+Chameleon Blur
+Venomous Breath
+Wolf's Quarry
+Urborg Phantom
+Niambi, Faithful Healer
+Goblin Test Pilot
+Horned Cheetah
+Merfolk of the Depths
+Razing Snidd
+Savage Offensive
+Deadly Brew
+Soul Link
+Onward // Victory
+Soldevi Sentry
+Watchdog
+Rusting Golem
+Leashling
+Tel-Jilad Stylus
+Avarice Totem
+Triangle of War
+Cyclopean Snare
+Siren Song Lyre
+Tawnos's Wand
+Gauntlets of Chaos
+Eon Hub
+Runesword
+Joven's Tools
+Bad River
+Flood Plain
+Grasslands
+Mountain Valley
+Rocky Tar Pit
+Skyshroud Forest
+Scabland
+Salt Flats
+Pine Barrens
+Caldera Lake
